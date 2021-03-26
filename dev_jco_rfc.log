@@ -1,0 +1,10 @@
+
+**** Log file opened at 20210326 163853 Brasilia Time Rel. 3.1.3 (2020-09-18) [753.710]
+Error: [1]    >Fri Mar 26 16:38:53,632<    RfcException raised by system [NPL|vhcalnplci|00] for user [DEVELOPER]:
+	message: Select one of the installed languages
+	return code: RFC_SYS_EXCEPTION (3)
+	error group: 103
+	key: RFC_ERROR_LOGON_FAILURE
+	message class: 00
+	message number: 171
+

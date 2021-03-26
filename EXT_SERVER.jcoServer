@@ -1,0 +1,8 @@
+#A sample configuration for a standard registered server 
+#Replace the dummy values and put this file in the working directory.
+#In eclipse environment it is the project root directory.
+jco.server.connection_count=2
+jco.server.gwhost=192.168.42.133
+jco.server.progid=JCO_ABAPDOJO
+jco.server.gwserv=sapgw00
+jco.server.repository_destination=ABAP_AS_WITH_POOL
